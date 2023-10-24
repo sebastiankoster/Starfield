@@ -2,7 +2,7 @@ PImage img;
 void setup(){
 size(1500,900);
 background(51);
-img = loadImage("shell.png");
+img = loadImage("data/shell.png");
 }
 double baseX = 750;
 double baseY = 550;
